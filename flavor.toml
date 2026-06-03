@@ -14,7 +14,7 @@ overall = { bg = "#fbf1c7" }
 cwd = { fg = "#076678" }
 
 # Find
-find_keyword  = { fg = "#79740e", bold = true, italic = true, underline = true }
+find_keyword  = { fg = "#fbf1c7", bg = "#d65d0e" }
 find_position = { fg = "#af3a03", bg = "reset", bold = true, italic = true }
 
 # Symlink
