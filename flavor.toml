@@ -207,7 +207,7 @@ footer  = { fg = "#ebdbb2", bg = "#7c6f64" }
 [filetype]
 rules = [
   # Special files
-  { url = "*", is = "orphan", bg = "#9d0006" },
+  { url = "*", is = "orphan", fg = "#9d0006" },
   { url = "*", is = "exec",   fg = "#79740e" },
 
   # Folders & files: one color each
